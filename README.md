@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-*Anilg1996/Anilg1996* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Madhusmita47/Madhusmita47* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,27 +17,27 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilg1996&label=Profile%20views&color=0e75b6&style=flat" alt="anilg1996" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhusmita47&label=Profile%20views&color=0e75b6&style=flat" alt="Madhusmita47" /> </p>
 
 - 🌱 I’m currently learning ReactJs
 
 - 💬 Ask me about MERN
 
-- 📫 How to reach me kanil485333@gmail.com
+- 📫 How to reach me madhusmita238091@gmail.com
 
 - ⚡ Fun fact I think I am Funny😅
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-        <a href="https://www.linkedin.com/in/anil-kumar-gupta-1b0018184/" target="blank"><img align="center"
+        <a href="https://www.linkedin.com/in/madhusmitasahoo123/" target="blank"><img align="center"
                 src="https://www.svgrepo.com/show/922/linkedin.svg"
-                alt="anil-kumar-gupta-1b0018184" height="30" width="40" /></a>
-        <a href="https://www.hackerrank.com/kanil485333" target="blank"><img align="center"
+                alt="madhusmitasahoo123" height="30" width="40" /></a>
+        <a href="https://www.hackerrank.com/madhusmita238091" target="blank"><img align="center"
                 src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"
-                alt="kanil485333" height="30" width="40" /></a>
-        <a href="https://www.leetcode.com/anil1996" target="blank"><img align="center"
+                alt="madhusmita238091" height="30" width="40" /></a>
+        <a href="https://www.leetcode.com/madhusmita51" target="blank"><img align="center"
                 src="https://www.svgrepo.com/show/306328/leetcode.svg"
-                alt="anil1996" height="30" width="40" /></a>
+                alt="madhusmita51" height="30" width="40" /></a>
     </p>
 
     <h3 align="left">Languages and Tools:</h3>
@@ -76,6 +76,6 @@ Here are some ideas to get you started:
             <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/redis-logo.png"
                 alt="redis" width="40" height="40" /> </a>  </p>
 
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilg1996&" alt="anilg1996" />
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhusmita47&" alt="Madhusmita47" />
     </p>
 
